@@ -149,4 +149,4 @@ Common issues and solutions:
    - Follow the "Identifying Correct Selectors" section to update them
    - Test new selectors in the browser console before updating the script
 
-# DSS - Advanced Security & Digital Forensics ENU '25
+**DSS - Advanced Security & Digital Forensics ENU '25**
