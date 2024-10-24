@@ -1,5 +1,4 @@
 # SlideShare Presentation Downloader
-# DSS - Advanced Security & Digital Forensics ENU '25
 
 A Node.js-based tool for downloading educational content from SlideShare presentations for offline study purposes. 
 
@@ -150,3 +149,4 @@ Common issues and solutions:
    - Follow the "Identifying Correct Selectors" section to update them
    - Test new selectors in the browser console before updating the script
 
+# DSS - Advanced Security & Digital Forensics ENU '25
